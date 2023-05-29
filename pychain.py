@@ -51,7 +51,7 @@ import hashlib
 # `amount` attributes
 @dataclass
 class Record:
-    # Doc string
+    # Class attributes
     sender: str
     receiver: str
     amount: float
@@ -78,7 +78,7 @@ class Block:
 
     creator_id: int
     prev_hash: str = "0"
-    timestamp: str = datetime.datetime.utcnow().strftime("%H:%M:%S")
+    timestamp: str = datetime.utcnow().strftime("%H:%M:%S")
     nonce: int = 0
 
     def hash_block(self):
