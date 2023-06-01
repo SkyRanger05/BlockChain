@@ -1,5 +1,3 @@
-![blocks!](resource\building-blocks-g58d3556e1_640.jpg)\
-Image by <a href="https://pixabay.com/users/zee_shutterz-12874543/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5097836">ZeeShutterz • Framing beauty with creativity</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5097836">Pixabay</a>
 # ROLLABLOCKs
 ___
 Don't know **_Blockchain_**...then **ROLLABLOCKs** is made for you.
